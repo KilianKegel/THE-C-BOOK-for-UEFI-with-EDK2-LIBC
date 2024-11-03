@@ -11,7 +11,7 @@ The book was published in 1991 and is now [available for free](https://publicati
 
 [Full copy of the original book is here.](https://github.com/KilianKegel/4KPages-THECBOOK/blob/main/README.md#4kpages-thecbook)
 
-## Occasion
+## Motivation
 ***Tianocore community*** doesn't provide an easy to use **EDK2-LIBC** build environment.
 
 **AppPkg** and **StdLib** was suddenly removed from the **EDK2** source code tree, [without any comment](https://github.com/tianocore/edk2/releases/tag/edk2-stable201905).
